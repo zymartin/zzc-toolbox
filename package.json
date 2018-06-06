@@ -1,0 +1,22 @@
+{
+  "name": "zzc-toolbox",
+  "version": "1.0.6",
+  "description": "npm package demo",
+  "main": "index.js",
+  "scripts": {
+    "pkg": "rm -rf ./lib/* && gulp"
+  },
+  "author": "barryzy",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-mocha": "^6.0.0"
+  },
+  "dependencies": {
+    "react": "^16.3.2"
+  }
+}

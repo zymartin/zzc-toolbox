@@ -1,0 +1,4 @@
+/node_modules
+/min
+/lib
+package-lock.json
